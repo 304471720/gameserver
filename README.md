@@ -7,4 +7,3 @@
 实现简单的棋牌室，棋牌数据结构定义，和简单的发牌洗牌，判断棋牌大小的程序，poker_regular.h，package_op.h
 简单编译命令build.sh
 
-
