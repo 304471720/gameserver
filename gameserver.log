@@ -1,0 +1,290 @@
+nohup: ignoring input
+
+>>>>>>>>>>>>>>>init_conf>>>>>>>>>>>>>>>
+port                    11011
+timeout                 0
+workernum               6
+connnum                 10000
+usernum                 0
+filenum                 0
+
+--------------------------------------1
+--------------------------------------2
+------------0x9fea030----------workernum6 ----------------!!!
+====================wokernum!!!0
+====================wokernum!!!1
+====================wokernum!!!2
+====================wokernum!!!3
+====================wokernum!!!4
+====================wokernum!!!5
+--------------------------------------3
+allocate connections pool successfull!!!
+Connection success......
+Connection success......
+Connection success......
+Connection success......
+Connection success......
+Connection success......
+Connection success......
+Connection success......
+Connection success......
+Connection success......
+启动数据库连接池成功... 
+--------------start server ok--------------
+114.240.212.255:30015  come in!!!
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
+114.240.212.255:30036  come in!!!
+----- Read Number 1 
+------------area :--- 2 
+-----Write End -----------------11 
