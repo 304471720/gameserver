@@ -5,5 +5,5 @@
 自己实现的网络数据解析与数据发送。package_info.c
 自己实现的简单数据库连接池db_connector_pool.c
 实现简单的棋牌室，棋牌数据结构定义，和简单的发牌洗牌，判断棋牌大小的程序，poker_regular.h，package_op.h
-简单编译命令build.sh
+简单编译脚本build.sh
 
